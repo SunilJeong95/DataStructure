@@ -1,2 +1,2 @@
 # DataStructure
-Implements of Typical DataStructures in Python
+Implementations of Typical DataStructures in Python
